@@ -1,2 +1,2 @@
 # docky-landing-page
-landing page for docky chrome extension
+This landing page shows off some of the features of our Docky chrome extension.
